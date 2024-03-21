@@ -1,4 +1,4 @@
-import 'package:clean_arch_bloc/core/utils/typedaf.dart';
+import 'package:clean_arch_bloc/core/utils/typedef.dart';
 
 abstract class UseCaseWithParams<Type, Params> {
   const UseCaseWithParams();
